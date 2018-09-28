@@ -7,14 +7,20 @@
     "base",
     "service"
   ],
-  "homepage": "",
+  "homepage": "araneconsulting.com",
   "license": "MIT",
   "authors": [
     {
-      "name": "Liuver Duran | Donelkys Santana",
-      "email": "liuver@gmail.com | donelkyss@gmail.com",
+      "name": "Liuver Duran",
+      "email": "liuver@gmail.com",
+      "role": "Architect/Developer"
+    }, 
+    {
+      "name": "Donelkys Santana",
+      "email": "donelkyss@gmail.com",
       "role": "Developer"
     }
+
   ],
   "require": {
     "illuminate/support": "~5.7",
